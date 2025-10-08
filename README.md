@@ -6,6 +6,10 @@ Trabalho de Engenharia de Requisitos apresentados pelos alunos Jeziel Monteiro P
 
 # Descrição do Produto
 
+Produto: Youtube.
+
+O Youtube é uma plataforma online gratuita na qual os seus usuários podem enviar, assitir, e interagir com vídeos, sejam eles profissionais ou caseiros.
+
 ## Motivação
 
 # Equipe
