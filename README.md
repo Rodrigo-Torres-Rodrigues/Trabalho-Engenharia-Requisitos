@@ -12,6 +12,8 @@ O Youtube é uma plataforma online gratuita na qual os seus usuários podem envi
 
 ## Motivação
 
+O Youtube pode ser uma fonte de quaisquer tipos de conhecimentos, bem como ser usado como uma fonte de entreterimento. Também pode ser usado como uma fonte de renda para criadores de conteúdo.
+
 # Equipe
 
 - Jeziel Monteiro Pessoa
