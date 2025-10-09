@@ -110,6 +110,18 @@ Todos os "<< include >>" no diagrama de caso de uso são dependências. Sobre o 
 | **Restrições/Validações**                             | O botão de curtida pode ter **dois estados**: curtido, não curtido.                                |
 
 # Diagrama de Sequência
+<div align="center">
+<img width="670" height="528" alt="Diagrama de sequência (Cadastrar)" src="https://github.com/user-attachments/assets/06897738-1d5d-40b1-aa1a-15c620552905" />
+
+Figura 2: Diagrama de Sequência (Cadastrar)
+
+<img width="646" height="501" alt="Diagrama de sequência (Logar)" src="https://github.com/user-attachments/assets/3d818117-21ee-4dce-aa00-7ffe7a8a0305" />
+
+Figura 3: Diagrama de Sequência (Logar)
+
+<img width="661" height="543" alt="Diagrama de sequência (Assistir Vídeos)" src="https://github.com/user-attachments/assets/93253e4c-6c52-4df9-b3a6-3cf7c3abf1df" />
+
+Figura 4: Diagrama de Sequência (Assistir Vídeos)
 
 ---
 
