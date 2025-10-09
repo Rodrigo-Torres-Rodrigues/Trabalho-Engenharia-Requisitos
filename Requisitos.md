@@ -11,11 +11,12 @@
 
 # Requisitos Não Funcionais (RNF)
 
-| **Identificador** | **Descrição**                                                                | Categoria   | Testável | Verificável | Escopo | Prioridade | 
+| **Identificador** | **Descrição**                                                                | Categoria   | Escopo | Prioridade | Testável | Verificável | 
 |---------------|---------------------------------------------------------------------------|-------------|--------|------------|-----------|-----------|
-| **RNF01**       | O vídeo deve começar a ser reproduzido em no máximo 2 segundos após o usuário clicar no play, em uma conexão de banda larga de 5 Mbps. O carregamento da página inicial e dos resultados de busca não deve levar mais que 1.5 segundos. | Desempenho   | Geral  | Essencial  |
-| **RNF02**         |  O sistema deve ser totalmente funcional nos dois navegadores mais populares do mercado (Chrome, Safari) em suas duas últimas versões estáveis, e nos sistemas operacionais móveis Android e iOS                                               |Compatibilidade  | Geral  | Importante |
-| **RNF03**         | O sistema deve oferecer tema escuro opcional para melhor experiência do usuário. | Usabilidade | Geral  | Desejável  |
-
+| **RNF01**       | O vídeo deve começar a ser reproduzido em no máximo 2 segundos após o usuário clicar no play, em uma conexão de banda larga de 5 Mbps. O carregamento da página inicial e dos resultados de busca não deve levar mais que 1.5 segundos. | Desempenho   | Geral  | Essencial  | Sim | Sim |
+| **RNF02**         |  O sistema deve ser totalmente funcional nos dois navegadores mais populares do mercado (Chrome, Safari) em suas duas últimas versões estáveis, e nos sistemas operacionais móveis Android e iOS                                               |Compatibilidade  | Geral  | Importante | Sim | Sim |
+| **RNF03**         | O sistema deve oferecer tema escuro opcional para melhor experiência do usuário. | Usabilidade | Geral  | Desejável  | Sim | Sim |
+| **RNF04**         | A taxa de falha na reprodução de um vídeo não deve exceder 0.1%. Em caso de falha no upload de um vídeo, o sistema deve permitir que o criador de conteúdo retome o envio do ponto onde parou, sem a necessidade de reiniciar todo o processo. | Confiabilidade | Geral | Importante | Não | Sim |
+| **RNF05**         | O sistema deve ser capaz de suportar um aumento súbito de até 50% no número de usuários simultâneos durante eventos ao vivo de grande porte, sem degradação perceptível no desempenho da transmissão de vídeo para os espectadores. | Escalabilidade | Geral | Essencial | Sim | Sim|
 
 # Regra de Negócio (RN)
