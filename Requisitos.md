@@ -20,3 +20,16 @@
 | **RNF05**         | O sistema deve ser capaz de suportar um aumento súbito de até 50% no número de usuários simultâneos durante eventos ao vivo de grande porte, sem degradação perceptível no desempenho da transmissão de vídeo para os espectadores. | Escalabilidade | Geral | Essencial | Sim | Sim|
 
 # Regra de Negócio (RN)
+
+| **Identificador** | **Descrição** | **Escopo** | **Prioridade** |
+|-------------------|---------------|------------|----------------|
+| **RN01** | O usuário deve ter uma conta Google válida para acessar e interagir com o YouTube.| Geral | Essencial |
+| **RN02** | Somente o dono do canal pode enviar, editar ou excluir seus vídeos. | Específico | Essencial |
+| **RN03** | Os vídeos enviados devem respeitar as políticas de conteúdo e direitos autorais. | Geral | Essencial |
+| **RN04** | O criador pode definir a visibilidade do vídeo (público, privado ou não listado). | Específico | Importante |
+| **RN05** | Apenas vídeos públicos aparecem em resultados de busca e recomendações. | Específico | Importante |
+| **RN06** | O sistema deve registrar visualizações, curtidas e comentários de forma automática. | Geral | Desejável |
+| **RN07** | Canais que violarem repetidamente as políticas podem ser suspensos. | Geral | Essencial |
+| **RN08** | A monetização só é permitida para canais que cumprem as diretrizes do Programa de Parcerias. | Específico | Importante |
+| **RN09** | Usuários podem denunciar conteúdos inapropriados para análise da equipe de moderação. | Geral | Importante |
+| **RN10** | O usuário deve aceitar os termos de uso e a política de privacidade para utilizar o sistema. | Geral | Essencial |
