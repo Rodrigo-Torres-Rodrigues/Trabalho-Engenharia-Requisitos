@@ -1,7 +1,16 @@
 # Diagrama de Caso de Uso
 
-![DiagramaCasodeUso](https://github.com/user-attachments/assets/13541c12-49da-4460-90a6-4cbcf9ac6fad)
+Todos os "<< include >>" no diagrama de caso de uso são dependências. Sobre o caso de uso "Assitir Vídeos", não é necessário logar ou mesmo cadastrar para realizar a ação, por isso, não é necessário um << include >> para o caso de uso "Logar".
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/2a6d4bc2-f928-4f40-b36b-32d71f1427b1" width="80%" alt="Diagrama de Caso de Uso">
+
+  Figura 1: Diagrama de Caso de Uso.
+</div>
+
+---
+
+## Especificações Detalhadas dos Casos de Uso  
 
 | **Nome do caso de uso**                                                  | **UC1 - Cadastrar**                                                                                                                |
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
