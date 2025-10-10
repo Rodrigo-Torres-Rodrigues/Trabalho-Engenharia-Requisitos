@@ -28,6 +28,12 @@ Todos os "<< include >>" no diagrama de caso de uso são dependências. Sobre o 
 |                                                                          | 5 - Redirecionar o usuário a tela de login.                                                                                        |
 | **Restrições/Validações**                                                | O usuário não pode ter duas contas com o mesmo email.                                                                              |
 
+<div align="center">
+  Tabela 1 - Especificação do caso de uso Cadastrar.
+</div>
+
+---
+
 | **Nome do caso de uso**                               | **UC2 - Logar**                                                                      |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | **Caso de uso geral**                                 | Fluxo Principal                                                                      |
@@ -44,6 +50,12 @@ Todos os "<< include >>" no diagrama de caso de uso são dependências. Sobre o 
 |                                                       | 5 - Redirecionar a parte inicial com o usuário logado em sua conta.                  |
 | **Restrições/Validações**                             | O usuário não pode estar logado em duas contas ao mesmo tempo.                       |
 
+<div align="center">
+  Tabela 2 - Especificação do caso de uso Logar.
+</div>
+
+---
+
 | **Nome do caso de uso**                  | **UC3 - Enviar Vídeos**                                                                                    |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | **Caso de uso geral**                    | Fluxo Principal                                                                                            |
@@ -58,6 +70,12 @@ Todos os "<< include >>" no diagrama de caso de uso são dependências. Sobre o 
 |                                          | 3 - Registrar as informações do vídeo e o vídeo em si no sistema.                                          |
 |                                          | 4 - Alertar o usuário que o vídeo foi enviado a plataforma.                                                |
 | **Restrições/Validações**                | O vídeo precisa ter um título.                                                                             |
+
+<div align="center">
+  Tabela 3 - Especificação do caso de uso Enviar Vídeos.
+</div>
+
+---
 
 | **Nome do caso de uso**                                     | **UC4 - Assistir Vídeos**                                                                           |
 | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -74,6 +92,12 @@ Todos os "<< include >>" no diagrama de caso de uso são dependências. Sobre o 
 | 4 - Assistir todo o vídeo.                                  |                                                                                                     |
 |                                                             | 5 - Registrar o vídeo no sistema como "assistido".                                                  |
 | **Restrições/Validações**                                   | O usuário não pode assitir dois vídeos ao mesmo tempo.                                              |
+
+<div align="center">
+  Tabela 4 - Especificação do caso de uso Assistir Vídeos.
+</div>
+
+---
 
 | **Nome do caso de uso**                               | **UC5 - Adicionar Vídeos a uma Playlist**                                                                     |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -92,6 +116,12 @@ Todos os "<< include >>" no diagrama de caso de uso são dependências. Sobre o 
 |                                                       | 6 - Atualizar o contador de vídeos na playlist.                                                               |
 | **Restrições/Validações**                             | O usuário não pode assitir dois vídeos ao mesmo tempo.                                                        |
 
+<div align="center">
+  Tabela 5 - Especificação do caso de uso Adicionar Vídeos a uma Playlist.
+</div>
+
+---
+
 | **Nome do caso de uso**                               | **UC6 - Curtir Vídeos**                                                                            |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | **Caso de uso geral**                                 | Fluxo Principal                                                                                    |
@@ -108,6 +138,10 @@ Todos os "<< include >>" no diagrama de caso de uso são dependências. Sobre o 
 |                                                       | 5 - Atualizar o contador de "Curtidas".                                                            |
 |                                                       | 6 - Desabilitar ao usuário dar um nova "Curtida".                                                  |
 | **Restrições/Validações**                             | O botão de curtida pode ter **dois estados**: curtido, não curtido.                                |
+
+<div align="center">
+  Tabela 6 - Especificação do caso de uso Curtir Vídeos.
+</div>
 
 # Diagrama de Sequência
 <div align="center">
