@@ -28,7 +28,7 @@
 | **RN03** | Os vídeos enviados devem respeitar as políticas de conteúdo e direitos autorais. | Geral | Essencial |
 | **RN04** | O criador pode definir a visibilidade do vídeo (público, privado ou não listado). | Específico | Importante |
 | **RN05** | Apenas vídeos públicos aparecem em resultados de busca e recomendações. | Específico | Importante |
-| **RN06** | O sistema deve registrar visualizações, curtidas e comentários de forma automática. | Geral | Desejável |
+| **RN06** | O registro das visualizações, curtidas e comentários deve ser feito de forma automática. | Geral | Desejável |
 | **RN07** | Canais que violarem repetidamente as políticas podem ser suspensos. | Geral | Essencial |
 | **RN08** | A monetização só é permitida para canais que cumprem as diretrizes do Programa de Parcerias. | Específico | Importante |
 | **RN09** | Usuários podem denunciar conteúdos inapropriados para análise da equipe de moderação. | Geral | Importante |
