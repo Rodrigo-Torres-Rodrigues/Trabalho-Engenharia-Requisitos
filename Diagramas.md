@@ -160,3 +160,7 @@ Figura 4: Diagrama de Sequência (Assistir Vídeos)
 ---
 
 # Diagrama de Atividades
+
+<img width="661" height="543" alt="Login e Cadastro" src="https://github.com/user-attachments/assets/e949b443-38d9-40de-ac65-8abed19ec430" />
+
+Figura 5: Diagrama de Atividade (Login e Cadastro)
